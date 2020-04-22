@@ -1,0 +1,650 @@
+0	DI,AD,AJ,BJ,BH	Prodigy	https://images.gr-assets.com/books/1336254717l/13414446.jpg
+1	GK,AG,AF,CF,CH	Fablehaven	https://images.gr-assets.com/books/1460309528l/44652.jpg
+2	GJ,BG,BH,DH,DF	The House of Mirth	https://images.gr-assets.com/books/1328729186l/17728.jpg
+3	GH,GJ,IJ,IL,KL	Lover Mine	https://images.gr-assets.com/books/1391511285l/7046495.jpg
+4	CJ,BJ,BF,FG,GI	Nine Stories	https://images.gr-assets.com/books/1514839407l/4009.jpg
+5	BI,BH,CH,CD,AD	Beautiful Creatures	https://images.gr-assets.com/books/1327873282l/6304335.jpg
+6	DJ,DH,GH,FG,AF	The Bluest Eye	https://images.gr-assets.com/books/1388208495l/11337.jpg
+7	AE,EI,HI,HL,KL	Frankenstein	https://images.gr-assets.com/books/1381512375l/18490.jpg
+8	AF,AJ,BJ,BI,DI	Little Women	https://images.gr-assets.com/books/1388269517l/1934.jpg
+9	BF,AF,AD,DH,HL	The Time Machine	https://images.gr-assets.com/books/1327942880l/2493.jpg
+10	CF,CI,BI,BH,AH	I, Claudius	https://images.gr-assets.com/books/1388185810l/18765.jpg
+11	GI,DG,AD,AF,CF	Onyx	https://images.gr-assets.com/books/1329408511l/13047090.jpg
+12	AI,BI,BJ,CJ,CH	The Three Musketeers	https://images.gr-assets.com/books/1320436982l/7190.jpg
+13	KL,HL,DH,BD,BE	Exotic Neurotic	https://images.gr-assets.com/books/1462818814l/29395568.jpg
+14	AI,AD,BD,BG,GH	The Prophet	https://images.gr-assets.com/books/1355046521l/2547.jpg
+15	BF,AF,AG,GI,IL	The Secret History	https://images.gr-assets.com/books/1451554846l/29044.jpg
+16	GL,FG,AF,AE,DE	The Indigo Spell	https://images.gr-assets.com/books/1438483930l/8709526.jpg
+17	EG,BG,BI,DI,DF	Howl and Other Poems	https://images.gr-assets.com/books/1327870926l/6295.jpg
+18	BD,BJ,CJ,CH,EH	A Clash of Kings	https://images.gr-assets.com/books/1358254974l/10572.jpg
+19	DH,CH,CJ,AJ,AE	Night Watch	https://images.gr-assets.com/books/1320518310l/47989.jpg
+20	AF,AD,DI,IL,KL	Dune	https://images.gr-assets.com/books/1434908555l/234225.jpg
+21	CH,BH,BD,DF,FG	Bared to You	https://images.gr-assets.com/books/1433411511l/20448515.jpg
+22	AI,AG,GH,HL,KL	Atonement	https://images.gr-assets.com/books/1320449708l/6867.jpg
+23	CH,EH,BE,BD,DJ	Of Human Bondage	https://images.gr-assets.com/books/1386924695l/31548.jpg
+24	DG,GH,EH,EI,AI	Champion	https://images.gr-assets.com/books/1382652310l/14290364.jpg
+25	BE,AE,AG,GI,DI	Beautiful Disaster	https://images.gr-assets.com/books/1358259032l/11505797.jpg
+26	BI,BD,AD,AF,CF	Eldest	https://images.gr-assets.com/books/1387119654l/45978.jpg
+27	AH,AF,CF,CI,BI	Hush, Hush	https://images.gr-assets.com/books/1358261334l/6339664.jpg
+28	DH,BH,BF,FG,GJ	Papillon	https://images.gr-assets.com/books/1327865561l/6882.jpg
+29	EH,CH,CF,BF,BD	Walking Disaster	https://images.gr-assets.com/books/1352338368l/15745950.jpg
+30	KL,HL,HI,EI,AE	Mother Night	https://images.gr-assets.com/books/1344621657l/9592.jpg
+31	GL,FG,BF,BE,EH	The Razor's Edge	https://images.gr-assets.com/books/1386925123l/31196.jpg
+32	AI,AH,GH,DG,CD	The Call of the Wild	https://images.gr-assets.com/books/1452291694l/1852.jpg
+33	AF,FG,GH,DH,BD	The Handmaid's Tale	https://images.gr-assets.com/books/1498057733l/38447.jpg
+34	CJ,CD,DI,GI,GH	The Arabian Nights	https://images.gr-assets.com/books/1388212809l/93101.jpg
+35	BH,BI,AI,AD,CD	The Witches	https://images.gr-assets.com/books/1351707720l/6327.jpg
+36	DF,AF,AG,GH,EH	The Westing Game	https://images.gr-assets.com/books/1356850909l/902.jpg
+37	DI,AI,AH,CH,CG	Jude the Obscure	https://images.gr-assets.com/books/1389403264l/50798.jpg
+38	CD,DG,AG,AF,BF	Cloud Atlas	https://images.gr-assets.com/books/1406383769l/49628.jpg
+39	EG,DG,BD,BJ,CJ	Reflected in You	https://images.gr-assets.com/books/1477802540l/13596809.jpg
+40	DE,BD,BI,CI,CF	The Elite	https://images.gr-assets.com/books/1391454595l/16248068.jpg
+41	BH,BF,AF,AJ,IJ	Allegiant	https://images.gr-assets.com/books/1395582745l/18710190.jpg
+42	CJ,CH,AH,AG,EG	Coraline	https://images.gr-assets.com/books/1493497435l/17061.jpg
+43	AG,CG,CF,BF,BI	The Red Tent	https://images.gr-assets.com/books/1405739117l/4989.jpg
+44	BG,CG,CE,AE,AD	Things Fall Apart	https://images.gr-assets.com/books/1352082529l/37781.jpg
+45	DE,AD,AJ,BJ,BH	The Grapes of Wrath	https://images.gr-assets.com/books/1513108059l/18114322.jpg
+46	BG,AG,AF,CF,CH	The Wise Man's Fear	https://images.gr-assets.com/books/1452624392l/1215032.jpg
+47	BH,BJ,AJ,AD,CD	V for Vendetta	https://images.gr-assets.com/books/1343668985l/5805.jpg
+48	IK,HK,AH,AG,GJ	Magician	https://images.gr-assets.com/books/1391464462l/43916.jpg
+49	IK,DI,DF,AF,AJ	A Town Like Alice	https://images.gr-assets.com/books/1327957610l/107301.jpg
+50	DL,AD,AE,CE,CF	Cryptonomicon	https://images.gr-assets.com/books/1327931476l/816.jpg
+51	CD,CF,AF,AE,EJ	'Salem's Lot	https://images.gr-assets.com/books/1327891565l/11590.jpg
+52	CE,CD,DF,AF,AI	Wonder	https://images.gr-assets.com/books/1412358842l/23302416.jpg
+53	HI,AH,AE,EJ,GJ	Shutter Island	https://images.gr-assets.com/books/1329269081l/21686.jpg
+54	HK,HI,GI,FG,DF	Lock and Key	https://images.gr-assets.com/books/1479691949l/1295102.jpg
+55	HK,HJ,AJ,AD,DG	The Iron Queen	https://images.gr-assets.com/books/1321070331l/8685612.jpg
+56	AH,AE,EI,GI,FG	The Divine Comedy	https://images.gr-assets.com/books/1390760180l/6656.jpg
+57	BH,BD,AD,AG,GK	Legend	https://images.gr-assets.com/books/1501368160l/9275658.jpg
+58	BD,BG,GJ,HJ,HI	The Shack	https://images.gr-assets.com/books/1344270232l/1812457.jpg
+59	DG,BG,BI,AI,AE	The Blind Assassin	https://images.gr-assets.com/books/1451445426l/78433.jpg
+60	BG,FG,AF,AH,HK	Stardust	https://images.gr-assets.com/books/1459127484l/16793.jpg
+61	BJ,BI,CI,CG,AG	Crescendo	https://images.gr-assets.com/books/1362408146l/7791997.jpg
+62	CK,CI,BI,BD,DJ	Heir of Fire	https://images.gr-assets.com/books/1460846511l/20613470.jpg
+63	EI,DI,DH,GH,GJ	Dandelion Wine	https://images.gr-assets.com/books/1374049845l/50033.jpg
+64	EG,DG,DH,CH,CJ	Starship Troopers	https://images.gr-assets.com/books/1533117961l/17214.jpg
+65	AI,BI,BD,DG,CG	Goodnight Moon	https://images.gr-assets.com/books/1439223893l/32929.jpg
+66	AG,AH,CH,CD,DI	Flowers for Algernon	https://images.gr-assets.com/books/1367141311l/18373.jpg
+67	BI,AI,AE,DE,CD	Beowulf	https://images.gr-assets.com/books/1327878125l/52357.jpg
+68	BE,EH,AH,AI,CI	Misery	https://images.gr-assets.com/books/1270545451l/10614.jpg
+69	EI,AI,AD,DG,GH	The Golden Lily	https://images.gr-assets.com/books/1360599818l/8709523.jpg
+70	CG,CH,EH,BE,BD	The Last Battle	https://images.gr-assets.com/books/1308814830l/84369.jpg
+71	AD,BD,BF,FG,GL	The Help	https://images.gr-assets.com/books/1346100365l/4667024.jpg
+72	BD,DI,IL,HL,FH	Clockwork Prince	https://images.gr-assets.com/books/1460477747l/10025305.jpg
+73	HL,DH,BD,BI,AI	On Dublin Street	https://images.gr-assets.com/books/1490401910l/15760001.jpg
+74	AJ,AI,GI,GH,DH	Jurassic Park	https://images.gr-assets.com/books/1344371661l/6424171.jpg
+75	DI,AD,AH,GH,GL	Club Dead	https://images.gr-assets.com/books/1329501590l/140082.jpg
+76	AI,AH,GH,DG,DF	Clockwork Princess	https://images.gr-assets.com/books/1436788488l/18335634.jpg
+77	KL,HL,HJ,GJ,BG	The Tin Drum	https://images.gr-assets.com/books/1327945103l/35743.jpg
+78	BF,BD,DI,AI,AH	Inkheart	https://images.gr-assets.com/books/1538266636l/28194.jpg
+79	BI,BG,AG,AF,DF	The Gunslinger	https://images.gr-assets.com/books/1375776480l/43615.jpg
+80	AG,GJ,IJ,HI,DH	On the Road	https://images.gr-assets.com/books/1413588576l/70401.jpg
+81	BF,FG,AG,AI,CI	Cinder	https://images.gr-assets.com/books/1470056948l/11235712.jpg
+82	CD,DI,HI,GH,BG	The Prince	https://images.gr-assets.com/books/1390055828l/28862.jpg
+83	DL,BD,BE,AE,AJ	The Namesake	https://images.gr-assets.com/books/1480106986l/33917.jpg
+84	BJ,AJ,AH,GH,DG	Mockingjay	https://images.gr-assets.com/books/1358275419l/7260188.jpg
+85	IJ,AJ,AH,CH,CG	The Iron Daughter	https://images.gr-assets.com/books/1271790654l/7747064.jpg
+86	DI,GI,FG,BF,BH	Ender's Shadow	https://images.gr-assets.com/books/1424904668l/9532.jpg
+87	IL,IK,HK,HJ,GJ	Eugene Onegin	https://images.gr-assets.com/books/1388373138l/27822.jpg
+88	DG,AG,AI,CI,CJ	Lover Unbound	https://images.gr-assets.com/books/1351276662l/304027.jpg
+89	EG,AG,AJ,IJ,IL	Howards End	https://images.gr-assets.com/books/1385160500l/3102.jpg
+90	BD,CD,CI,AI,AF	Catching Fire	https://images.gr-assets.com/books/1358273780l/6148028.jpg
+91	CH,CF,AF,AJ,GJ	The God Delusion	https://images.gr-assets.com/books/1347220693l/14743.jpg
+92	HJ,AJ,AE,DE,BD	Nightshade	https://images.gr-assets.com/books/1333400218l/7402393.jpg
+93	AH,CH,CF,BF,BE	A Walk to Remember	https://images.gr-assets.com/books/1385738968l/3473.jpg
+94	AJ,AI,EI,EH,CH	His Dark Materials	https://images.gr-assets.com/books/1442329494l/18116.jpg
+95	EG,DG,BD,BJ,CJ	I Am the Messenger	https://images.gr-assets.com/books/1398483261l/19057.jpg
+96	BG,GJ,HJ,HL,KL	A Time to Kill	https://images.gr-assets.com/books/1390195915l/32542.jpg
+97	AJ,AI,EI,EH,GH	A Little Princess	https://images.gr-assets.com/books/1327868556l/3008.jpg
+98	CE,CD,AD,AJ,HJ	A Feast for Crows	https://images.gr-assets.com/books/1429538615l/13497.jpg
+99	DH,AH,AE,CE,CF	Prodigal Summer	https://images.gr-assets.com/books/1426308771l/14249.jpg
+100	GH,HJ,IJ,IL,KL	Thoughtless	https://images.gr-assets.com/books/1331254339l/13517535.jpg
+101	CD,CF,BF,BG,AG	Ready Player One	https://images.gr-assets.com/books/1500930947l/9969571.jpg
+102	CD,BD,BE,AE,AJ	Me Before You	https://images.gr-assets.com/books/1357108762l/15507958.jpg
+103	BF,BG,GJ,AJ,AD	The Complete Works	https://images.gr-assets.com/books/1327884293l/569564.jpg
+104	BD,DI,IL,HL,HJ	The Night Circus	https://images.gr-assets.com/books/1387124618l/9361589.jpg
+105	FH,HK,IK,IJ,AJ	The Gargoyle	https://images.gr-assets.com/books/1368598513l/2595138.jpg
+106	EH,AH,AJ,BJ,BF	The Death Cure	https://images.gr-assets.com/books/1303997647l/7864437.jpg
+107	CI,BI,BJ,AJ,AE	Just Listen	https://images.gr-assets.com/books/1358270741l/51738.jpg
+108	AH,DH,DG,GI,EI	Anna Karenina	https://images.gr-assets.com/books/1352422904l/15823480.jpg
+109	GJ,AJ,AI,DI,DH	The Bhagavad Gita	https://images.gr-assets.com/books/1383059639l/99944.jpg
+110	BG,DG,DH,HJ,AJ	The Son of Neptune	https://images.gr-assets.com/books/1464201114l/9520360.jpg
+111	BH,DH,AD,AF,CF	The Complete Novels	https://images.gr-assets.com/books/1388178574l/14905.jpg
+112	CH,DH,DF,AF,AG	The Summoning	https://images.gr-assets.com/books/1478986944l/2800905.jpg
+113	CH,EH,EI,AI,AG	Johnny Got His Gun	https://images.gr-assets.com/books/1386925458l/51606.jpg
+114	HJ,GH,FG,DF,AD	The Far Pavilions	https://images.gr-assets.com/books/1403391799l/10222.jpg
+115	DF,AF,AH,HI,IL	The Eyre Affair	https://images.gr-assets.com/books/1445540555l/27003.jpg
+116	AE,AF,DF,CD,CI	The Giver	https://images.gr-assets.com/books/1342493368l/3636.jpg
+117	GH,GJ,IJ,IL,KL	The City of Ember	https://images.gr-assets.com/books/1397931596l/307791.jpg
+118	GI,AI,AF,DF,BD	Deception Point	https://images.gr-assets.com/books/1524176259l/976.jpg
+119	GH,GI,AI,AE,CE	Emma	https://images.gr-assets.com/books/1373627931l/6969.jpg
+120	KL,HK,DH,DI,CI	Go, Dog. Go!	https://images.gr-assets.com/books/1333578440l/460548.jpg
+121	AE,AF,DF,CD,CI	The Stand	https://images.gr-assets.com/books/1213131305l/149267.jpg
+122	GJ,FG,AF,AI,EI	Passion	https://images.gr-assets.com/books/1362339802l/9369720.jpg
+123	DH,EH,EI,GI,AG	Oryx and Crake	https://images.gr-assets.com/books/1494109986l/46756.jpg
+124	GL,FG,BF,BE,AE	The Ruins of Gorlan	https://images.gr-assets.com/books/1293952830l/60400.jpg
+125	HL,HI,GI,DG,DF	The Great Divorce	https://images.gr-assets.com/books/1166805741l/17267.jpg
+126	CF,CD,BD,BG,GI	The Waste Land	https://images.gr-assets.com/books/1327910597l/34080.jpg
+127	GI,DG,DF,AF,AH	The Pact	https://images.gr-assets.com/books/1410754561l/10916.jpg
+128	GH,FG,DF,BD,BE	A Moveable Feast	https://images.gr-assets.com/books/1531210888l/4631.jpg
+129	AF,AJ,HJ,DH,BD	The Road	https://images.gr-assets.com/books/1439197219l/6288.jpg
+130	AD,AE,EI,GI,GL	Twilight	https://images.gr-assets.com/books/1361039443l/41865.jpg
+131	CD,CE,AE,AF,FG	Houdini Heart	https://images.gr-assets.com/books/1510418043l/11324204.jpg
+132	CJ,CD,DI,GI,AG	The Bronze Horseman	https://images.gr-assets.com/books/1327921996l/83144.jpg
+133	AI,AG,DG,CD,CE	Frostbite	https://images.gr-assets.com/books/1361098960l/2282133.jpg
+134	DF,FG,BG,BH,CH	The History of Love	https://images.gr-assets.com/books/1327911009l/3867.jpg
+135	DG,BD,BH,AH,AE	Angels & Demons	https://images.gr-assets.com/books/1527091700l/960.jpg
+136	EI,EH,AH,AJ,GJ	The Sparrow	https://images.gr-assets.com/books/1525457306l/334176.jpg
+137	AD,AG,GH,HL,IL	Of Mice and Men	https://images.gr-assets.com/books/1511302904l/890.jpg
+138	DJ,BD,BF,CF,CE	The Corrections	https://images.gr-assets.com/books/1355011305l/3805.jpg
+139	GJ,FG,AF,AI,CI	Mort	https://images.gr-assets.com/books/1388181166l/386372.jpg
+140	AJ,AH,HK,IK,IL	A Storm of Swords	https://images.gr-assets.com/books/1497931121l/62291.jpg
+141	AE,AG,GJ,HJ,HI	Fahrenheit 451	https://images.gr-assets.com/books/1351643740l/4381.jpg
+142	CH,AH,AG,GI,IJ	The Witching Hour	https://images.gr-assets.com/books/1327289387l/11901.jpg
+143	CD,DH,GH,FG,BF	The Angel Experiment	https://images.gr-assets.com/books/1339277875l/13152.jpg
+144	CH,AH,AG,GI,IJ	North and South	https://images.gr-assets.com/books/1349633381l/156538.jpg
+145	AE,AH,GH,GI,DI	Life of Pi	https://images.gr-assets.com/books/1320562005l/4214.jpg
+146	AH,AE,CE,CF,BF	Watchmen	https://images.gr-assets.com/books/1442239711l/472331.jpg
+147	CD,DI,IL,HL,GH	Death of a Salesman	https://images.gr-assets.com/books/1469024140l/12898.jpg
+148	KL,IL,DI,DH,CH	The Collector	https://images.gr-assets.com/books/1394828024l/243705.jpg
+149	KL,IL,IJ,HJ,FH	Hearts in Atlantis	https://images.gr-assets.com/books/1374048926l/11602.jpg
+150	CI,CD,DF,FG,BG	Cannery Row	https://images.gr-assets.com/books/1388188936l/4799.jpg
+151	GH,BG,BF,AF,AE	From Dead to Worse	https://images.gr-assets.com/books/1525214511l/2233407.jpg
+152	DE,AE,AJ,CJ,CI	The Bean Trees	https://images.gr-assets.com/books/1443483961l/30868.jpg
+153	DE,AE,AJ,IJ,IL	Wicked Lovely	https://images.gr-assets.com/books/1327814035l/305234.jpg
+154	BH,BJ,AJ,AD,CD	Eleanor & Park	https://images.gr-assets.com/books/1341952742l/15745753.jpg
+155	FG,BF,BI,CI,CK	Christy	https://images.gr-assets.com/books/1389406901l/229123.jpg
+156	HI,DI,DF,AF,AE	Into the Wild	https://images.gr-assets.com/books/1327994729l/111332.jpg
+157	DF,AF,AJ,CJ,CI	Left Behind	https://images.gr-assets.com/books/1406505054l/27523.jpg
+158	AJ,AI,CI,CD,BD	Fallen	https://images.gr-assets.com/books/1440619649l/6487308.jpg
+159	GI,DI,AD,AJ,HJ	Choke	https://images.gr-assets.com/books/1403186013l/29059.jpg
+160	BF,BD,DH,GH,GJ	The Historian	https://images.gr-assets.com/books/1338298031l/10692.jpg
+161	DI,HI,HJ,AJ,AG	The Shell Seekers	https://images.gr-assets.com/books/1385213408l/37095.jpg
+162	EH,DH,DF,FG,GJ	Death on the Nile	https://images.gr-assets.com/books/1486837149l/131359.jpg
+163	EI,DI,CD,CG,BG	Small Gods	https://images.gr-assets.com/books/1390899426l/34484.jpg
+164	DI,BD,BH,CH,CF	The Story of My Life	https://images.gr-assets.com/books/1320429331l/821611.jpg
+165	CD,CI,BI,BG,FG	High Fidelity	https://images.gr-assets.com/books/1327928082l/285092.jpg
+166	CF,CE,AE,AH,BH	Northanger Abbey	https://images.gr-assets.com/books/1388201718l/50398.jpg
+167	AJ,AE,BE,BD,CD	She's Come Undone	https://images.gr-assets.com/books/1408113538l/5203.jpg
+168	EH,DH,CD,CI,AI	Revolutionary Road	https://images.gr-assets.com/books/1353721885l/48328.jpg
+169	BJ,BD,DH,HK,IK	Obsidian	https://images.gr-assets.com/books/1328275091l/12578077.jpg
+170	AD,AG,BG,BI,CI	Anne of Green Gables	https://images.gr-assets.com/books/1390789015l/8127.jpg
+171	DG,GH,HJ,IJ,FI	Persuasion	https://images.gr-assets.com/books/1385172413l/2156.jpg
+172	DE,AD,AJ,BJ,BF	Drums of Autumn	https://images.gr-assets.com/books/1500688941l/10988.jpg
+173	CI,CH,BH,BD,DG	The Glass Menagerie	https://images.gr-assets.com/books/1391591003l/92517.jpg
+174	DL,DH,GH,AG,AJ	The Magic Mountain	https://images.gr-assets.com/books/1403170928l/88077.jpg
+175	AH,AF,DF,BD,BE	Looking for Alaska	https://images.gr-assets.com/books/1394798630l/99561.jpg
+176	GJ,EJ,AE,AF,BF	Dead and Gone	https://images.gr-assets.com/books/1388186195l/5161066.jpg
+177	DG,BD,BJ,CJ,CH	The Killer Angels	https://images.gr-assets.com/books/1355371689l/682804.jpg
+178	BH,BD,DE,AE,AI	Number the Stars	https://images.gr-assets.com/books/1370917812l/47281.jpg
+179	AJ,BJ,BD,DF,FG	Oliver Twist	https://images.gr-assets.com/books/1327868529l/18254.jpg
+180	DF,BD,BG,GJ,EJ	The Talisman	https://images.gr-assets.com/books/1170530286l/59219.jpg
+181	BJ,BI,CI,CG,AG	Brisingr	https://images.gr-assets.com/books/1391443970l/2248573.jpg
+182	GL,GH,AH,AF,DF	Safe Haven	https://images.gr-assets.com/books/1344268800l/7812659.jpg
+183	AI,AE,BE,BF,CF	The Mists of Avalon	https://images.gr-assets.com/books/1388857089l/402045.jpg
+184	BF,AF,AE,CE,CG	Sophie's Choice	https://images.gr-assets.com/books/1356714742l/228560.jpg
+185	HJ,AJ,AE,DE,CD	Hex Hall	https://images.gr-assets.com/books/1368393885l/5287473.jpg
+186	IL,IJ,GJ,FG,BF	Naked Lunch	https://images.gr-assets.com/books/1407330990l/7437.jpg
+187	CG,CF,AF,AH,HI	A Dance with Dragons	https://images.gr-assets.com/books/1327885335l/10664113.jpg
+188	DH,GH,AG,AI,BI	Grimm's Fairy Tales	https://images.gr-assets.com/books/1386705031l/19351490.jpg
+189	CF,CI,DI,BD,BJ	To the Lighthouse	https://images.gr-assets.com/books/1346239665l/59716.jpg
+190	CE,CG,BG,BI,AI	Artemis Fowl	https://images.gr-assets.com/books/1327945104l/249747.jpg
+191	AE,AD,DI,GI,GH	The Kite Runner	https://images.gr-assets.com/books/1484565687l/77203.jpg
+192	AJ,AH,BH,BI,DI	Shōgun	https://images.gr-assets.com/books/1397228842l/402093.jpg
+193	CD,AD,AJ,IJ,IL	The Eye of the World	https://images.gr-assets.com/books/1337818095l/228665.jpg
+194	CD,AD,AI,BI,BG	Tao Te Ching	https://images.gr-assets.com/books/1333578861l/67896.jpg
+195	BG,AG,AH,HK,KL	Franny and Zooey	https://images.gr-assets.com/books/1355037988l/5113.jpg
+196	EH,GH,AG,AD,DJ	Collected Fictions	https://images.gr-assets.com/books/1386924676l/17961.jpg
+197	BJ,BD,DH,HI,IL	The Complete Maus	https://images.gr-assets.com/books/1327354180l/15195.jpg
+198	CD,AD,AH,HI,IL	Doctor Zhivago	https://images.gr-assets.com/books/1385508725l/130440.jpg
+199	DI,AI,AJ,BJ,BF	My Name Is Asher Lev	https://images.gr-assets.com/books/1385056726l/11507.jpg
+200	AD,AH,HI,IK,KL	The Hunger Games	https://images.gr-assets.com/books/1447303603l/2767052.jpg
+201	AD,BD,BF,FG,GH	Ender's Game	https://images.gr-assets.com/books/1408303130l/375802.jpg
+202	BF,BG,GI,EI,EH	Candide	https://images.gr-assets.com/books/1345060082l/19380.jpg
+203	CD,DG,GI,AI,AE	The BFG	https://images.gr-assets.com/books/1327872673l/6319.jpg
+204	AH,DH,DI,GI,FG	Lonesome Dove	https://images.gr-assets.com/books/1378573063l/256008.jpg
+205	DH,AH,AJ,CJ,CI	A Wizard of Earthsea	https://images.gr-assets.com/books/1353424536l/13642.jpg
+206	DJ,AD,AG,BG,BI	Song of Solomon	https://images.gr-assets.com/books/1451448230l/11334.jpg
+207	AE,AH,HI,IJ,GJ	The Outsiders	https://images.gr-assets.com/books/1442129426l/231804.jpg
+208	FG,AF,AI,CI,CD	Absalom, Absalom!	https://images.gr-assets.com/books/1388474680l/373755.jpg
+209	CF,BF,BD,DI,HI	Neuromancer	https://images.gr-assets.com/books/1167348726l/22328.jpg
+210	DI,HI,GH,GJ,AJ	Glass Houses	https://images.gr-assets.com/books/1428057864l/27266.jpg
+211	AI,EI,EH,CH,CF	The Hobbit	https://images.gr-assets.com/books/1372847500l/5907.jpg
+212	DF,DI,GI,GJ,HJ	Ignite Me	https://images.gr-assets.com/books/1375972497l/13188676.jpg
+213	AF,AD,BD,BG,GI	Vampire Academy	https://images.gr-assets.com/books/1381459853l/18660669.jpg
+214	BJ,BD,DF,FG,AG	The Last Song	https://images.gr-assets.com/books/1286549186l/6400090.jpg
+215	DF,AF,AE,CE,CG	Before I Fall	https://images.gr-assets.com/books/1361044695l/6482837.jpg
+216	AD,BD,BH,CH,CJ	The Great Gatsby	https://images.gr-assets.com/books/1490528560l/4671.jpg
+217	FG,AG,AI,CI,CK	Nausea	https://images.gr-assets.com/books/1377674928l/298275.jpg
+218	CH,CD,DI,GI,AG	Halfway to the Grave	https://images.gr-assets.com/books/1373855613l/1421990.jpg
+219	HJ,AJ,AI,CI,CK	The Maltese Falcon	https://images.gr-assets.com/books/1306421260l/29999.jpg
+220	CF,BF,BD,DI,HI	East of Eden	https://images.gr-assets.com/books/1441547516l/4406.jpg
+221	AG,GJ,IJ,HI,HK	The Shining	https://images.gr-assets.com/books/1353277730l/11588.jpg
+222	AH,AE,EI,GI,GL	Peter Pan	https://images.gr-assets.com/books/1337714526l/34268.jpg
+223	DI,AD,AE,CE,CF	1Q84	https://images.gr-assets.com/books/1483103331l/10357575.jpg
+224	DF,AD,AH,CH,CG	Lover Eternal	https://images.gr-assets.com/books/1300845974l/35729.jpg
+225	KL,IK,IJ,HJ,DH	A Dirty Job	https://images.gr-assets.com/books/1331323415l/33456.jpg
+226	DG,DH,HL,IL,IJ	Six of Crows	https://images.gr-assets.com/books/1459349344l/23437156.jpg
+227	DE,CD,CG,AG,AH	Cyrano de Bergerac	https://images.gr-assets.com/books/1386920459l/15638.jpg
+228	HI,GI,AG,AF,CF	A Bend in the Road	https://images.gr-assets.com/books/1388453919l/3463.jpg
+229	EI,GI,GH,DH,DJ	Kane and Abel	https://images.gr-assets.com/books/1388965561l/78983.jpg
+230	DF,CD,CJ,BJ,BI	Gone	https://images.gr-assets.com/books/1357796831l/2536134.jpg
+231	CI,CF,BF,BD,DL	Silence	https://images.gr-assets.com/books/1362408152l/10637766.jpg
+232	GK,AG,AE,DE,CD	The Horse Whisperer	https://images.gr-assets.com/books/1320410310l/479415.jpg
+233	HJ,AJ,AD,CD,CG	Wizard and Glass	https://images.gr-assets.com/books/1327946510l/5096.jpg
+234	AI,CI,CF,BF,BJ	The Sea of Monsters	https://images.gr-assets.com/books/1400602661l/28186.jpg
+235	BG,GH,AH,AD,DE	Mrs. Dalloway	https://images.gr-assets.com/books/1479336522l/14942.jpg
+236	AD,DH,HL,IL,IJ	Divergent	https://images.gr-assets.com/books/1328559506l/13335037.jpg
+237	AG,BG,BF,CF,CI	Great Expectations	https://images.gr-assets.com/books/1309639398l/2619.jpg
+238	DG,BD,BJ,AJ,AI	Foucault's Pendulum	https://images.gr-assets.com/books/1396645125l/17841.jpg
+239	HL,HI,GI,DG,BD	Forbidden	https://images.gr-assets.com/books/1394239949l/7600924.jpg
+240	GH,DH,BD,BF,AF	A Walk in the Woods	https://images.gr-assets.com/books/1388189974l/9791.jpg
+241	DL,DI,AI,AH,EH	گم شده ای در مه	https://images.gr-assets.com/books/1532496795l/40941582.jpg
+242	AD,DH,HK,IK,IL	Romeo and Juliet	https://images.gr-assets.com/books/1327872146l/18135.jpg
+243	CD,DG,GI,AI,AH	Shatter Me	https://images.gr-assets.com/books/1310649047l/10429045.jpg
+244	DI,BI,BJ,AJ,AH	Cosmos	https://images.gr-assets.com/books/1388620656l/55030.jpg
+245	CF,CH,AH,AI,GI	Chosen	https://images.gr-assets.com/books/1393192825l/1326258.jpg
+246	CG,CF,BF,BI,AI	I, Robot	https://images.gr-assets.com/books/1388321463l/41804.jpg
+247	AF,DF,DH,GH,GJ	Angela's Ashes	https://images.gr-assets.com/books/1348317139l/252577.jpg
+248	GJ,BG,BF,CF,CE	Blue Bloods	https://images.gr-assets.com/books/1322281515l/872333.jpg
+249	EJ,GJ,GH,HI,IL	Still Alice	https://images.gr-assets.com/books/1236089972l/2153405.jpg
+250	CI,CF,BF,BD,DJ	Acheron	https://images.gr-assets.com/books/1437687512l/2299110.jpg
+251	BI,AI,AE,DE,CD	A Separate Peace	https://images.gr-assets.com/books/1528860889l/5148.jpg
+252	BD,DF,FG,GJ,IJ	زندگی مه آلود پریا	https://images.gr-assets.com/books/1532526741l/40937505.jpg
+253	BE,EH,CH,CF,AF	Into the Wild	https://images.gr-assets.com/books/1403173986l/1845.jpg
+254	CJ,CD,DI,IK,HK	Being and Time	https://images.gr-assets.com/books/1298438455l/92307.jpg
+255	AH,GH,DG,BD,BJ	Fight Club	https://images.gr-assets.com/books/1357128997l/5759.jpg
+256	DE,BD,BF,CF,CG	P.S. I Love You	https://images.gr-assets.com/books/1392344536l/366522.jpg
+257	BG,GH,DH,AD,AF	Never Let Me Go	https://images.gr-assets.com/books/1353048590l/6334.jpg
+258	HL,GH,BG,BI,CI	Across the Universe	https://images.gr-assets.com/books/1401852218l/8235178.jpg
+259	DI,CD,CE,AE,AJ	Queen of Shadows	https://images.gr-assets.com/books/1441230104l/18006496.jpg
+260	BD,BF,FG,GH,HL	Blindness	https://images.gr-assets.com/books/1327866409l/2526.jpg
+261	DF,AD,AH,CH,CJ	Speaker for the Dead	https://images.gr-assets.com/books/1295660894l/7967.jpg
+262	DE,CD,CF,BF,BG	The Red Pyramid	https://images.gr-assets.com/books/1366227978l/7090447.jpg
+263	CF,CD,DH,HJ,GJ	Lover Awakened	https://images.gr-assets.com/books/1388773547l/42900.jpg
+264	EI,DI,DH,GH,AG	Exodus	https://images.gr-assets.com/books/1359742531l/42697.jpg
+265	BD,DH,HK,KL,IL	White Oleander	https://images.gr-assets.com/books/1501159524l/32234.jpg
+266	DG,BD,BF,CF,CI	John Adams	https://images.gr-assets.com/books/1478144278l/2203.jpg
+267	AD,DH,BH,BI,CI	Lord of the Flies	https://images.gr-assets.com/books/1327869409l/7624.jpg
+268	AI,AD,DF,FG,BG	The Good Earth	https://images.gr-assets.com/books/1312497600l/1078.jpg
+269	IL,GI,FG,BF,BJ	Rules of Attraction	https://images.gr-assets.com/books/1439792205l/7137775.jpg
+270	CD,CI,AI,AG,GJ	Hopeless	https://images.gr-assets.com/books/1353489892l/15717943.jpg
+271	HJ,HI,DI,CD,CF	Point of Retreat	https://images.gr-assets.com/books/1330543249l/13496084.jpg
+272	CD,DI,AI,AG,GJ	American Psycho	https://images.gr-assets.com/books/1436934349l/28676.jpg
+273	BF,CF,CH,EH,EI	Speak	https://images.gr-assets.com/books/1310121762l/439288.jpg
+274	BD,DF,FG,GJ,IJ	Throne of Glass	https://images.gr-assets.com/books/1495278054l/7896527.jpg
+275	AF,AH,CH,CI,DI	Matilda	https://images.gr-assets.com/books/1388793265l/39988.jpg
+276	AH,EH,EI,DI,CD	Insurgent	https://images.gr-assets.com/books/1325667729l/11735983.jpg
+277	AD,AE,EJ,GJ,GH	The Giving Tree	https://images.gr-assets.com/books/1174210942l/370493.jpg
+278	CJ,CH,AH,AG,DG	Twelfth Night	https://images.gr-assets.com/books/1416628008l/1625.jpg
+279	CG,DG,BD,BI,AI	Bleak House	https://images.gr-assets.com/books/1280113147l/31242.jpg
+280	DF,FG,AG,AJ,IJ	Darkfever	https://images.gr-assets.com/books/1392579949l/112750.jpg
+281	AE,AJ,HJ,GH,DG	The Princess Bride	https://images.gr-assets.com/books/1327903636l/21787.jpg
+282	EH,EI,GI,FG,BF	Antigone	https://images.gr-assets.com/books/1486701308l/7728.jpg
+283	EG,BG,BD,AD,AF	Battle Royale	https://images.gr-assets.com/books/1331235272l/57891.jpg
+284	DI,BD,BG,CG,CF	The Power of Myth	https://images.gr-assets.com/books/1327878742l/35519.jpg
+285	EG,DG,AD,AJ,BJ	Cold Sassy Tree	https://images.gr-assets.com/books/1223675895l/306654.jpg
+286	AE,AG,CG,CH,BH	A Game of Thrones	https://images.gr-assets.com/books/1436732693l/13496.jpg
+287	EG,BG,BH,AH,AD	Dreamfever	https://images.gr-assets.com/books/1429621657l/6050298.jpg
+288	BF,CF,CE,AE,AG	King Lear	https://images.gr-assets.com/books/1331563731l/12938.jpg
+289	CF,BF,BD,DI,IL	Pippi Longstocking	https://images.gr-assets.com/books/1519300455l/19302.jpg
+290	IL,DI,DF,FG,AG	Origin	https://images.gr-assets.com/books/1398100888l/13644052.jpg
+291	KL,IL,IJ,GJ,AG	Empire of Storms	https://images.gr-assets.com/books/1463107108l/28260587.jpg
+292	EH,CH,CI,AI,AJ	Unravel Me	https://images.gr-assets.com/books/1340287622l/13104080.jpg
+293	KL,IL,HI,GH,AG	The Glass Castle	https://images.gr-assets.com/books/1523542886l/7445.jpg
+294	BJ,BI,AI,AE,CE	My Ántonia	https://images.gr-assets.com/books/1389151307l/17150.jpg
+295	AD,BD,BH,CH,CG	Charlotte's Web	https://images.gr-assets.com/books/1439632243l/24178.jpg
+296	DF,DG,GH,HJ,AJ	The Last Unicorn	https://images.gr-assets.com/books/1524764327l/29127.jpg
+297	KL,HL,HJ,GJ,FG	Practical Magic	https://images.gr-assets.com/books/1490354120l/22896.jpg
+298	CF,CH,BH,BG,GJ	The Jungle	https://images.gr-assets.com/books/1332140681l/41681.jpg
+299	AH,AF,DF,DG,CG	The Metamorphosis	https://images.gr-assets.com/books/1359061917l/485894.jpg
+300	DH,AD,AI,CI,CF	Message in a Bottle	https://images.gr-assets.com/books/1163789140l/3478.jpg
+301	BF,BD,DE,AE,AG	Uncle Tom's Cabin	https://images.gr-assets.com/books/1414349231l/46787.jpg
+302	DF,CD,CJ,BJ,BH	The Secret	https://images.gr-assets.com/books/1482865039l/52529.jpg
+303	BF,BG,GI,EI,EH	Paradise Lost	https://images.gr-assets.com/books/1526070678l/15997.jpg
+304	AF,AH,CH,CI,BI	Rebecca	https://images.gr-assets.com/books/1386605169l/17899948.jpg
+305	AE,AF,FG,GJ,IJ	Watership Down	https://images.gr-assets.com/books/1405136931l/76620.jpg
+306	HJ,HK,KL,IL,GI	White Noise	https://images.gr-assets.com/books/1521562981l/11762.jpg
+307	EH,BE,BF,FG,AG	Gabriel's Inferno	https://images.gr-assets.com/books/1301789770l/10140661.jpg
+308	BF,BD,DG,GI,HI	The Thirteenth Tale	https://images.gr-assets.com/books/1346267826l/40440.jpg
+309	AJ,AD,DG,CG,CH	The Silmarillion	https://images.gr-assets.com/books/1336502583l/7332.jpg
+310	DF,AD,AE,EI,GI	Peace Like a River	https://images.gr-assets.com/books/1436139976l/227571.jpg
+311	AH,BH,BI,CI,CJ	The Godfather	https://images.gr-assets.com/books/1394988109l/22034.jpg
+312	CI,CH,BH,BD,DG	Sarah's Key	https://images.gr-assets.com/books/1438863728l/556602.jpg
+313	GJ,FG,AF,AI,EI	Unearthly	https://images.gr-assets.com/books/1324782984l/7488244.jpg
+314	DH,AH,AF,FG,BG	Gravity's Rainbow	https://images.gr-assets.com/books/1414969925l/415.jpg
+315	CE,AE,AG,FG,DF	The Plague	https://images.gr-assets.com/books/1503362434l/11989.jpg
+316	BF,BH,CH,CG,DG	Walden	https://images.gr-assets.com/books/1465675526l/16902.jpg
+317	BD,BG,GH,AH,AE	The Selection	https://images.gr-assets.com/books/1322103400l/10507293.jpg
+318	AH,AD,DG,GI,IL	Dune	https://images.gr-assets.com/books/1388175949l/104.jpg
+319	EH,DH,DF,FG,GI	Cress	https://images.gr-assets.com/books/1470057005l/13206828.jpg
+320	AF,AD,BD,BJ,CJ	The Poisonwood Bible	https://images.gr-assets.com/books/1412242487l/7244.jpg
+321	CJ,CD,BD,BE,AE	The Last Lecture	https://images.gr-assets.com/books/1388075896l/2318271.jpg
+322	DH,AH,AE,CE,CG	Corelli's Mandolin	https://images.gr-assets.com/books/1479680795l/3388.jpg
+323	CG,AG,AJ,HJ,HK	Vanity Fair	https://images.gr-assets.com/books/1344386439l/5797.jpg
+324	AJ,AD,DI,BI,BF	A Light in the Attic	https://images.gr-assets.com/books/1427169918l/30118.jpg
+325	HL,GH,GJ,IJ,FI	The Winds of War	https://images.gr-assets.com/books/1442187661l/21484.jpg
+326	AH,CH,CF,BF,BD	The Last Olympian	https://images.gr-assets.com/books/1327924597l/4502507.jpg
+327	AF,AE,EJ,GJ,BG	The Bell Jar	https://images.gr-assets.com/books/1473890514l/6514.jpg
+328	DF,AF,AJ,CJ,CH	Anne of Avonlea	https://images.gr-assets.com/books/1305545757l/77390.jpg
+329	GJ,GH,AH,AD,DF	Along for the Ride	https://images.gr-assets.com/books/1479692098l/5664985.jpg
+330	BF,BH,DH,DG,EG	Heidi	https://images.gr-assets.com/books/1388462714l/93.jpg
+331	CD,BD,BE,AE,AI	Steppenwolf	https://images.gr-assets.com/books/1389332672l/16631.jpg
+332	AJ,AI,BI,BF,FG	The Secret Magdalene	https://images.gr-assets.com/books/1175446011l/514811.jpg
+333	BH,DH,DG,GI,AI	Cold Mountain	https://images.gr-assets.com/books/1442416348l/10920.jpg
+334	AE,CE,CD,BD,BH	Catch-22	https://images.gr-assets.com/books/1463157317l/168668.jpg
+335	BD,DI,IK,HK,AH	The Lost Hero	https://images.gr-assets.com/books/1464201003l/7736182.jpg
+336	GI,HI,DH,DF,AF	The Goldfinch	https://images.gr-assets.com/books/1451554970l/17333223.jpg
+337	AJ,HJ,HI,IL,KL	Beloved	https://images.gr-assets.com/books/1347984578l/6149.jpg
+338	DF,DG,GI,IL,KL	The Darkest Minds	https://images.gr-assets.com/books/1343178841l/10576365.jpg
+339	BJ,BD,CD,CE,AE	The English Patient	https://images.gr-assets.com/books/1320527907l/11713.jpg
+340	GH,GJ,AJ,AI,EI	The Passage	https://images.gr-assets.com/books/1327874267l/6690798.jpg
+341	AH,AF,BF,BG,DG	The Scarlet Letter	https://images.gr-assets.com/books/1404810944l/12296.jpg
+342	CG,AG,AF,DF,DL	Voyager	https://images.gr-assets.com/books/1483278195l/10987.jpg
+343	DF,DI,BI,BH,AH	The Goose Girl	https://images.gr-assets.com/books/1330728389l/179064.jpg
+344	BD,DH,AH,AG,FG	The Vampire Lestat	https://images.gr-assets.com/books/1347515742l/43814.jpg
+345	CD,DI,IK,KL,HL	The Shipping News	https://images.gr-assets.com/books/1514344704l/7354.jpg
+346	AG,GI,IJ,HJ,FH	Great Expectations	https://images.gr-assets.com/books/1327920219l/2623.jpg
+347	AJ,AH,HI,DI,CD	Schindler's List	https://images.gr-assets.com/books/1348163457l/375013.jpg
+348	DH,HJ,IJ,IK,KL	The Scorch Trials	https://images.gr-assets.com/books/1388240248l/7631105.jpg
+349	IJ,AJ,AG,BG,BD	Half-Blood	https://images.gr-assets.com/books/1311865840l/9680718.jpg
+350	HL,GH,GJ,AJ,AE	Let the Right One In	https://images.gr-assets.com/books/1327893384l/943402.jpg
+351	CE,AE,AJ,GJ,BG	Nineteen Minutes	https://images.gr-assets.com/books/1348577596l/14866.jpg
+352	CI,CJ,AJ,AH,GH	Hunted	https://images.gr-assets.com/books/1438042897l/4134071.jpg
+353	GH,BG,BI,DI,CD	Mystic River	https://images.gr-assets.com/books/1407109549l/21671.jpg
+354	IJ,GJ,GH,EH,BE	The Fountainhead	https://images.gr-assets.com/books/1491163636l/2122.jpg
+355	AH,AF,BF,BG,GI	The Name of the Rose	https://images.gr-assets.com/books/1415375471l/119073.jpg
+356	BE,BD,DI,HI,HL	Paper Towns	https://images.gr-assets.com/books/1349013610l/6442769.jpg
+357	DH,BH,BF,FG,AG	We Were Liars	https://images.gr-assets.com/books/1402749479l/16143347.jpg
+358	FG,AF,AE,DE,CD	Night World, No. 1	https://images.gr-assets.com/books/1434962482l/3099787.jpg
+359	CF,CI,AI,AH,DH	A Room with a View	https://images.gr-assets.com/books/1388781285l/3087.jpg
+360	DI,AI,AJ,BJ,BH	Watchers	https://images.gr-assets.com/books/1532695250l/32423.jpg
+361	CG,CD,DI,EI,AE	The House of Hades	https://images.gr-assets.com/books/1464201430l/12127810.jpg
+362	HJ,GH,GI,AI,AF	Ugly Love	https://images.gr-assets.com/books/1399179135l/17788401.jpg
+363	DG,BD,BE,EH,AH	Oedipus Rex	https://images.gr-assets.com/books/1388182316l/1554.jpg
+364	GJ,GI,DI,DH,HL	Beastly	https://images.gr-assets.com/books/1334260193l/544891.jpg
+365	BF,BH,AH,AE,CE	Foundation	https://images.gr-assets.com/books/1417900846l/29579.jpg
+366	EI,AI,AD,DG,GH	Specials	https://images.gr-assets.com/books/1390340887l/24765.jpg
+367	AI,GI,BG,BH,CH	The Lorax	https://images.gr-assets.com/books/1327879938l/7784.jpg
+368	GJ,BG,BF,CF,CH	Survivor	https://images.gr-assets.com/books/1348787270l/7076703.jpg
+369	BF,BD,DE,AE,AG	Invisible Man	https://images.gr-assets.com/books/1352854247l/16981.jpg
+370	AE,AH,BH,BJ,CJ	The Lightning Thief	https://images.gr-assets.com/books/1400602609l/28187.jpg
+371	DI,AD,AH,GH,GJ	A Christmas Carol	https://images.gr-assets.com/books/1406512317l/5326.jpg
+372	HL,GH,AG,AI,EI	Memnoch the Devil	https://images.gr-assets.com/books/1506208231l/31338.jpg
+373	CG,AG,AF,DF,BD	Torment	https://images.gr-assets.com/books/1362339749l/7740152.jpg
+374	CH,DH,DG,GI,AI	Chocolat	https://images.gr-assets.com/books/1388674628l/47401.jpg
+375	AJ,AD,CD,CF,BF	The Crucible	https://images.gr-assets.com/books/1447764813l/17250.jpg
+376	DI,GI,AG,AH,BH	Inferno	https://images.gr-assets.com/books/1534070896l/17212231.jpg
+377	BH,DH,DG,AG,AE	Fifty Shades Freed	https://images.gr-assets.com/books/1336418837l/13536860.jpg
+378	EH,CH,CF,BF,BG	The Reckoning	https://images.gr-assets.com/books/1327154591l/6468666.jpg
+379	GL,FG,DF,AD,AI	We	https://images.gr-assets.com/books/1421883730l/76171.jpg
+380	AJ,AH,HK,IK,DI	Thirteen Reasons Why	https://images.gr-assets.com/books/1333822506l/1217100.jpg
+381	GI,DG,CD,CJ,BJ	On the Beach	https://images.gr-assets.com/books/1327943327l/38180.jpg
+382	DI,AD,AF,BF,BE	Angle of Repose	https://images.gr-assets.com/books/1329151576l/292408.jpg
+383	CF,CH,EH,BE,BD	Waiting for Godot	https://images.gr-assets.com/books/1327910301l/17716.jpg
+384	AJ,AH,HK,IK,IL	David Copperfield	https://images.gr-assets.com/books/1461452762l/58696.jpg
+385	BF,BI,CI,CG,AG	The Awakening	https://images.gr-assets.com/books/1170507247l/58345.jpg
+386	CH,EH,BE,BD,DL	Crown of Midnight	https://images.gr-assets.com/books/1391580481l/17167166.jpg
+387	CG,CI,BI,BD,DF	Bloodlines	https://images.gr-assets.com/books/1297199431l/8709527.jpg
+388	DI,CI,CH,BH,BG	One Day	https://images.gr-assets.com/books/1327873020l/6280118.jpg
+389	CD,CF,AF,AJ,GJ	Inferno	https://images.gr-assets.com/books/1520255019l/15645.jpg
+390	DF,AF,AH,EH,BE	A Dog's Purpose	https://images.gr-assets.com/books/1441219933l/7723542.jpg
+391	DH,BD,BG,AG,AI	Love Story	https://images.gr-assets.com/books/1388812297l/73968.jpg
+392	DI,EI,EH,GH,BG	Lover Avenged	https://images.gr-assets.com/books/1321039998l/5098079.jpg
+393	AJ,AI,BI,BF,CF	The Sun Also Rises	https://images.gr-assets.com/books/1509802323l/3876.jpg
+394	EG,BG,BI,DI,DL	Fire	https://images.gr-assets.com/books/1331535456l/6137154.jpg
+395	DF,AD,AJ,CJ,CH	Julius Caesar	https://images.gr-assets.com/books/1354574927l/13006.jpg
+396	AJ,AE,EI,GI,GH	The Trial	https://images.gr-assets.com/books/1320399438l/17690.jpg
+397	AD,DH,HL,IL,FI	Jane Eyre	https://images.gr-assets.com/books/1327867269l/10210.jpg
+398	BF,CF,CG,AG,AH	The Idiot	https://images.gr-assets.com/books/1327865902l/12505.jpg
+399	GH,DG,DF,AF,AE	Beach Music	https://images.gr-assets.com/books/1426903848l/16729.jpg
+400	DH,CD,CE,AE,AJ	The Fiery Cross	https://images.gr-assets.com/books/1407366842l/10967.jpg
+401	AJ,BJ,BF,CF,CE	The Canterbury Tales	https://images.gr-assets.com/books/1261208589l/2696.jpg
+402	DL,DH,HJ,GJ,GI	Digital Fortress	https://images.gr-assets.com/books/1360095966l/11125.jpg
+403	AF,AE,EI,HI,HL	Outlander	https://images.gr-assets.com/books/1529065012l/10964.jpg
+404	DI,BI,BG,GH,HL	The Alienist	https://images.gr-assets.com/books/1388256626l/40024.jpg
+405	AI,GI,DG,BD,BE	Blood Promise	https://images.gr-assets.com/books/1442530605l/5996153.jpg
+406	IL,DI,BD,BJ,AJ	Forever	https://images.gr-assets.com/books/1285771367l/9409458.jpg
+407	DG,CD,CI,BI,BF	One for the Money	https://images.gr-assets.com/books/1316730230l/6853.jpg
+408	DF,FG,AG,AJ,CJ	Native Son	https://images.gr-assets.com/books/1440820866l/15622.jpg
+409	BG,GI,EI,AE,AH	Fifty Shades Darker	https://images.gr-assets.com/books/1358266080l/11857408.jpg
+410	CD,DI,AI,AG,GH	The Final Empire	https://images.gr-assets.com/books/1480717416l/68428.jpg
+411	AE,AH,BH,BG,DG	The Lovely Bones	https://images.gr-assets.com/books/1457810586l/12232938.jpg
+412	AH,BH,BG,GJ,EJ	In Cold Blood	https://images.gr-assets.com/books/1424931136l/168642.jpg
+413	AD,AE,EJ,GJ,FG	Animal Farm	https://images.gr-assets.com/books/1424037542l/7613.jpg
+414	AD,AE,EI,GI,GH	Pride and Prejudice	https://images.gr-assets.com/books/1320399351l/1885.jpg
+415	CF,CE,AE,AH,GH	The Pearl	https://images.gr-assets.com/books/1437234939l/5308.jpg
+416	CI,CG,AG,AJ,BJ	Unwind	https://images.gr-assets.com/books/1297677706l/764347.jpg
+417	HL,DH,DF,AF,AE	Birdsong	https://images.gr-assets.com/books/1349952101l/6259.jpg
+418	BD,DH,HJ,AJ,AE	Delirium	https://images.gr-assets.com/books/1327890411l/11614718.jpg
+419	AE,AI,BI,BD,DL	Lolita	https://images.gr-assets.com/books/1377756377l/7604.jpg
+420	GI,EI,AE,AD,DH	Macbeth	https://images.gr-assets.com/books/1459795224l/8852.jpg
+421	DF,DI,CI,CG,AG	Cutting for Stone	https://images.gr-assets.com/books/1327931601l/3591262.jpg
+422	DL,DH,GH,GJ,AJ	A Monster Calls	https://images.gr-assets.com/books/1485991317l/8621462.jpg
+423	CG,AG,AI,BI,BJ	The Exorcist	https://images.gr-assets.com/books/1375168676l/179780.jpg
+424	GJ,AJ,AI,DI,DH	Orlando	https://images.gr-assets.com/books/1443118010l/18839.jpg
+425	EH,AH,AG,GJ,IJ	Ruby Red	https://images.gr-assets.com/books/1312036605l/8835379.jpg
+426	AE,AG,GI,DI,CD	The Secret Garden	https://images.gr-assets.com/books/1327873635l/2998.jpg
+427	GJ,EJ,AE,AF,CF	The Dark Tower	https://images.gr-assets.com/books/1372296329l/5091.jpg
+428	FI,HI,HJ,AJ,AD	Geek Love	https://images.gr-assets.com/books/1366699063l/13872.jpg
+429	AI,AF,CF,CH,EH	The Thorn Birds	https://images.gr-assets.com/books/1391416796l/3412.jpg
+430	AE,AJ,HJ,HI,GI	The Little Prince	https://images.gr-assets.com/books/1367545443l/157993.jpg
+431	CJ,CH,DH,BD,BE	I Capture the Castle	https://images.gr-assets.com/books/1385316083l/31122.jpg
+432	IJ,HI,DH,BD,BE	Bloodfever	https://images.gr-assets.com/books/1302566396l/344262.jpg
+433	CD,DI,HI,GH,BG	Infinite Jest	https://images.gr-assets.com/books/1446876799l/6759.jpg
+434	DH,HJ,AJ,AE,CE	The Bourne Identity	https://images.gr-assets.com/books/1335860740l/7869.jpg
+435	DG,BD,BI,CI,CF	Where She Went	https://images.gr-assets.com/books/1347810457l/8492825.jpg
+436	CD,CI,BI,BG,AG	The Chosen	https://images.gr-assets.com/books/1403191327l/187181.jpg
+437	CD,DH,HL,IL,FI	A Fine Balance	https://images.gr-assets.com/books/1386925449l/5211.jpg
+438	DI,BI,BG,GJ,EJ	The Sirens of Titan	https://images.gr-assets.com/books/1419363185l/4982.jpg
+439	DH,AH,AJ,IJ,FI	The Raven Boys	https://images.gr-assets.com/books/1477103737l/17675462.jpg
+440	CH,DH,DG,GI,EI	The 5th Wave	https://images.gr-assets.com/books/1359853842l/16101128.jpg
+441	AI,AE,EJ,GJ,BG	Heart of Darkness	https://images.gr-assets.com/books/1392799983l/4900.jpg
+442	AH,AE,CE,CD,DI	American Gods	https://images.gr-assets.com/books/1258417001l/4407.jpg
+443	BG,BF,AF,AH,EH	The Prince of Tides	https://images.gr-assets.com/books/1512744907l/16735.jpg
+444	KL,HL,HJ,AJ,AE	Timeline	https://images.gr-assets.com/books/1405420745l/7669.jpg
+445	CG,AG,AD,DH,HJ	The One	https://images.gr-assets.com/books/1395612906l/18635016.jpg
+446	AG,AI,BI,BJ,CJ	Anna Karenina	https://images.gr-assets.com/books/1452709554l/151.jpg
+447	BG,BH,CH,CI,DI	The Power of One	https://images.gr-assets.com/books/1388184360l/122.jpg
+448	AJ,AD,DH,EH,EI	Shiver	https://images.gr-assets.com/books/1409283154l/6068551.jpg
+449	HI,DH,BD,BF,CF	The Long Walk	https://images.gr-assets.com/books/1309212400l/9014.jpg
+450	BJ,BD,DI,IL,HL	The Firm	https://images.gr-assets.com/books/1418465200l/5358.jpg
+451	HI,AH,AJ,BJ,BD	Childhood's End	https://images.gr-assets.com/books/1320552628l/414999.jpg
+452	DH,AH,AE,CE,CF	Jitterbug Perfume	https://images.gr-assets.com/books/1388607752l/8682.jpg
+453	BI,BH,CH,CD,DE	White Fang	https://images.gr-assets.com/books/1475878443l/43035.jpg
+454	HL,GH,GJ,AJ,AF	The Blood of Olympus	https://images.gr-assets.com/books/1464201441l/18705209.jpg
+455	AF,FG,GI,IJ,HJ	My Sister's Keeper	https://images.gr-assets.com/books/1369504683l/10917.jpg
+456	CH,CD,BD,BG,EG	Perfect Chemistry	https://images.gr-assets.com/books/1439792475l/4268157.jpg
+457	BG,AG,AF,CF,CH	Kafka on the Shore	https://images.gr-assets.com/books/1429638085l/4929.jpg
+458	AJ,AD,DG,CG,CF	Cat's Cradle	https://images.gr-assets.com/books/1327867150l/135479.jpg
+459	BG,DG,CD,CJ,AJ	Middlemarch	https://images.gr-assets.com/books/1481264628l/19089.jpg
+460	BH,BD,DF,FG,GJ	Love You Forever	https://images.gr-assets.com/books/1348832754l/310259.jpg
+461	BH,BD,DF,FG,GI	If I Stay	https://images.gr-assets.com/books/1347462970l/4374400.jpg
+462	HI,AH,AE,EJ,GJ	This Lullaby	https://images.gr-assets.com/books/1397779294l/22205.jpg
+463	CD,BD,BG,GJ,AJ	The Amber Spyglass	https://images.gr-assets.com/books/1329189152l/18122.jpg
+464	DI,BI,BJ,AJ,AE	Odd Thomas	https://images.gr-assets.com/books/1388245669l/14995.jpg
+465	AG,GH,EH,BE,BD	Atlas Shrugged	https://images.gr-assets.com/books/1405868167l/662.jpg
+466	AE,AH,CH,CF,BF	The Odyssey	https://images.gr-assets.com/books/1390173285l/1381.jpg
+467	BJ,BF,AF,AI,EI	Stargirl	https://images.gr-assets.com/books/1335947642l/22232.jpg
+468	AJ,AF,BF,BE,EH	The Titan's Curse	https://images.gr-assets.com/books/1361038385l/561456.jpg
+469	FG,BF,BD,DI,HI	The Lucky One	https://images.gr-assets.com/books/1420816338l/3063499.jpg
+470	BF,BG,GH,HL,IL	Graceling	https://images.gr-assets.com/books/1331548394l/3236307.jpg
+471	AD,AE,EJ,GJ,BG	Gone with the Wind	https://images.gr-assets.com/books/1328025229l/18405.jpg
+472	CD,DF,FG,GJ,AJ	Evermore	https://images.gr-assets.com/books/1362336360l/3975774.jpg
+473	CI,AI,AJ,BJ,BF	The Polar Express	https://images.gr-assets.com/books/1356707942l/420282.jpg
+474	EJ,AE,AD,DI,IK	Burned	https://images.gr-assets.com/books/1327944437l/6917952.jpg
+475	AD,AJ,IJ,GI,GL	Crime and Punishment	https://images.gr-assets.com/books/1382846449l/7144.jpg
+476	DI,CD,CE,AE,AH	Scarlet	https://images.gr-assets.com/books/1470056982l/13206760.jpg
+477	DI,CD,CF,BF,BJ	Ivanhoe	https://images.gr-assets.com/books/1405336818l/6440.jpg
+478	AJ,AI,GI,GH,HL	Spirit Bound	https://images.gr-assets.com/books/1291168967l/6479259.jpg
+479	DI,CD,CH,AH,AG	Anthem	https://images.gr-assets.com/books/1388190459l/667.jpg
+480	CH,CG,DG,AD,AF	Wizard's First Rule	https://images.gr-assets.com/books/1385248539l/43889.jpg
+481	CF,BF,BI,AI,AE	Redeeming Love	https://images.gr-assets.com/books/1166475085l/11422.jpg
+482	GI,HI,DH,DF,AF	Redwall	https://images.gr-assets.com/books/1327877368l/7996.jpg
+483	AE,AH,HI,GI,FG	Water for Elephants	https://images.gr-assets.com/books/1494428973l/43641.jpg
+484	BD,CD,CJ,AJ,AI	The Green Mile	https://images.gr-assets.com/books/1373903563l/11566.jpg
+485	DH,HJ,AJ,AG,FG	The Bad Beginning	https://images.gr-assets.com/books/1490085391l/78411.jpg
+486	AG,BG,BF,CF,CI	The Notebook	https://images.gr-assets.com/books/1385738917l/15931.jpg
+487	AE,AI,CI,CF,BF	Slaughterhouse-Five	https://images.gr-assets.com/books/1440319389l/4981.jpg
+488	AJ,BJ,BF,CF,CH	Ulysses	https://images.gr-assets.com/books/1428891345l/338798.jpg
+489	GI,EI,EH,DH,CD	Red Queen	https://images.gr-assets.com/books/1449778912l/22328546.jpg
+490	DE,BD,BF,CF,CH	Slammed	https://images.gr-assets.com/books/1328530463l/13372690.jpg
+491	IL,HI,DH,AD,AF	Storm Front	https://images.gr-assets.com/books/1419456275l/47212.jpg
+492	AG,AE,DE,CD,CF	The Golden Compass	https://images.gr-assets.com/books/1505766203l/119322.jpg
+493	FG,DF,CD,CH,BH	Definitely Dead	https://images.gr-assets.com/books/1468562748l/140079.jpg
+494	AG,AF,DF,DH,HI	Tuesdays with Morrie	https://images.gr-assets.com/books/1423763749l/6900.jpg
+495	CD,DI,IL,KL,HK	The Subtle Knife	https://images.gr-assets.com/books/1505766360l/119324.jpg
+496	CG,CH,AH,AD,DF	Carrie	https://images.gr-assets.com/books/1166254258l/10592.jpg
+497	GK,AG,AF,CF,CE	Eleven Minutes	https://images.gr-assets.com/books/1358266987l/1430.jpg
+498	EH,DH,DI,IL,KL	Tender Is the Night	https://images.gr-assets.com/books/1438797669l/46164.jpg
+499	KL,IL,GI,FG,DF	The Rescue	https://images.gr-assets.com/books/1385055753l/3462.jpg
+500	FG,AF,AI,CI,CK	The Forgotten Garden	https://images.gr-assets.com/books/1455283767l/3407877.jpg
+501	AG,GI,IJ,HJ,HL	The Stranger	https://images.gr-assets.com/books/1349927872l/49552.jpg
+502	CI,CH,AH,AE,EJ	Dead to the World	https://images.gr-assets.com/books/1468561630l/140077.jpg
+503	DF,DI,IL,HL,GH	All the King's Men	https://images.gr-assets.com/books/1342193852l/5527.jpg
+504	AH,AD,BD,BG,EG	Holes	https://images.gr-assets.com/books/1327781893l/38709.jpg
+505	GI,BG,BD,DH,EH	Tiger's Curse	https://images.gr-assets.com/books/1327878915l/9284655.jpg
+506	IL,DI,DF,FG,GH	The Fall	https://images.gr-assets.com/books/1467904855l/11991.jpg
+507	AD,AF,BF,BJ,CJ	Les Misérables	https://images.gr-assets.com/books/1525303092l/24280.jpg
+508	KL,IK,DI,DH,AH	Hogfather	https://images.gr-assets.com/books/1416342611l/34532.jpg
+509	GK,AG,AI,CI,CF	Disgrace	https://images.gr-assets.com/books/1385161943l/6192.jpg
+510	AI,AE,EJ,GJ,GH	The Joy Luck Club	https://images.gr-assets.com/books/1304978653l/7763.jpg
+511	EI,DI,AD,AG,GJ	The Two Towers	https://images.gr-assets.com/books/1298415523l/15241.jpg
+512	BF,FG,GI,EI,EH	Howl's Moving Castle	https://images.gr-assets.com/books/1407450489l/6294.jpg
+513	CJ,AJ,AE,EI,GI	I Am Number Four	https://images.gr-assets.com/books/1305807140l/7747374.jpg
+514	HI,AH,AJ,BJ,BF	At Grave's End	https://images.gr-assets.com/books/1448167943l/3570231.jpg
+515	AD,AG,GI,IL,KL	Dracula	https://images.gr-assets.com/books/1387151694l/17245.jpg
+516	DI,AD,AF,FG,GH	Lover Revealed	https://images.gr-assets.com/books/1389646548l/42898.jpg
+517	BJ,BD,DG,GH,HI	Midnight's Children	https://images.gr-assets.com/books/1371063511l/14836.jpg
+518	AJ,AG,FG,DF,BD	Treasure Island	https://images.gr-assets.com/books/1485248909l/295.jpg
+519	GJ,IJ,IK,HK,FH	Pale Fire	https://images.gr-assets.com/books/1388155863l/7805.jpg
+520	DI,AD,AE,CE,CF	The Big Sleep	https://images.gr-assets.com/books/1371584712l/2052.jpg
+521	GI,FG,DF,DH,BH	Wings	https://images.gr-assets.com/books/1327983077l/5056084.jpg
+522	IJ,HI,GH,BG,BD	Anansi Boys	https://images.gr-assets.com/books/1479778049l/2744.jpg
+523	DJ,BD,BF,CF,CE	Under the Dome	https://images.gr-assets.com/books/1511289992l/6320534.jpg
+524	DG,BG,BF,AF,AH	Inheritance	https://images.gr-assets.com/books/1390886502l/7664041.jpg
+525	HL,HK,IK,IJ,AJ	Swan Song	https://images.gr-assets.com/books/1445981000l/11557.jpg
+526	CD,DH,HL,IL,IJ	Dragonfly in Amber	https://images.gr-assets.com/books/1456114344l/5364.jpg
+527	DG,BG,BH,AH,AF	Tempted	https://images.gr-assets.com/books/1408633041l/6262365.jpg
+528	BD,AD,AE,CE,CG	Uglies	https://images.gr-assets.com/books/1443904172l/24770.jpg
+529	DF,CD,CH,EH,BE	Possession	https://images.gr-assets.com/books/1391124124l/41219.jpg
+530	DI,AI,AH,CH,CJ	The Jungle Books	https://images.gr-assets.com/books/1349066474l/41684.jpg
+531	CE,AE,AH,DH,BD	Matched	https://images.gr-assets.com/books/1367706191l/7735333.jpg
+532	AE,AJ,BJ,BH,CH	Brave New World	https://images.gr-assets.com/books/1523061131l/5129.jpg
+533	BF,BG,GI,EI,AE	Different Seasons	https://images.gr-assets.com/books/1329662611l/39662.jpg
+534	HI,AH,AE,EJ,GJ	Dead Witch Walking	https://images.gr-assets.com/books/1391713381l/30264.jpg
+535	DL,AD,AE,CE,CF	Walk Two Moons	https://images.gr-assets.com/books/1389035862l/53496.jpg
+536	AF,DF,DH,CH,CG	A Clockwork Orange	https://images.gr-assets.com/books/1348339306l/227463.jpg
+537	GH,HJ,AJ,AE,BE	Dead as a Doornail	https://images.gr-assets.com/books/1468562419l/170210.jpg
+538	CD,DH,BH,BG,GJ	Room	https://images.gr-assets.com/books/1344265419l/7937843.jpg
+539	FG,BF,BD,DI,IL	Ficciones	https://images.gr-assets.com/books/1388197956l/426504.jpg
+540	DG,BD,BF,CF,CH	Pretties	https://images.gr-assets.com/books/1388314207l/24768.jpg
+541	EH,AH,AG,GI,DI	Crank	https://images.gr-assets.com/books/1388192181l/270730.jpg
+542	AF,AH,EH,EI,DI	The Color Purple	https://images.gr-assets.com/books/1386925078l/11486.jpg
+543	GH,AH,AD,DI,BI	Easy	https://images.gr-assets.com/books/1349370267l/16056408.jpg
+544	IK,IJ,AJ,AE,DE	The Valley of Horses	https://images.gr-assets.com/books/1324059760l/40493.jpg
+545	BG,GJ,AJ,AH,DH	Bel Canto	https://images.gr-assets.com/books/1352997328l/5826.jpg
+546	DF,DG,BG,BH,AH	Sabriel	https://images.gr-assets.com/books/1293655399l/518848.jpg
+547	AG,AI,BI,BH,DH	1984	https://images.gr-assets.com/books/1348990566l/5470.jpg
+548	EJ,AE,AH,HI,IL	Words of Radiance	https://images.gr-assets.com/books/1507307927l/17332218.jpg
+549	FH,HJ,GJ,BG,BD	Pandemonium	https://images.gr-assets.com/books/1310371414l/9593911.jpg
+550	BG,BF,AF,AD,DL	Norwegian Wood	https://images.gr-assets.com/books/1386924361l/11297.jpg
+551	DI,BD,BE,EH,GH	Gift from the Sea	https://images.gr-assets.com/books/1328312670l/77295.jpg
+552	CH,DH,AD,AG,GI	Are You My Mother?	https://images.gr-assets.com/books/1389098758l/197084.jpg
+553	BF,FG,GH,HI,DI	Neverwhere	https://images.gr-assets.com/books/1348747943l/14497.jpg
+554	CI,AI,AJ,HJ,DH	The Woman in White	https://images.gr-assets.com/books/1295661017l/5890.jpg
+555	AD,AE,EJ,GJ,GH	The Book Thief	https://images.gr-assets.com/books/1522157426l/19063.jpg
+556	CF,CH,BH,BG,GJ	Dubliners	https://images.gr-assets.com/books/1334138184l/11012.jpg
+557	AJ,AF,DF,DG,CG	Fifty Shades of Grey	https://images.gr-assets.com/books/1385207843l/10818853.jpg
+558	GK,AG,AH,HI,DI	The Guardian	https://images.gr-assets.com/books/1388195339l/15925.jpg
+559	BF,AF,AE,CE,CG	City of Lost Souls	https://images.gr-assets.com/books/1460477703l/8755776.jpg
+560	FH,HJ,IJ,IK,KL	The Color of Magic	https://images.gr-assets.com/books/1407111017l/34497.jpg
+561	AD,DG,CG,CH,EH	Memoirs of a Geisha	https://images.gr-assets.com/books/1388367666l/930.jpg
+562	EH,DH,CD,CI,BI	Ethan Frome	https://images.gr-assets.com/books/1389822254l/5246.jpg
+563	HL,HJ,AJ,AI,EI	Fall on Your Knees	https://images.gr-assets.com/books/1481449709l/5174.jpg
+564	DE,AE,AJ,IJ,HI	Angelfall	https://images.gr-assets.com/books/1464206558l/15863832.jpg
+565	CF,AF,AG,GH,HI	Untamed	https://images.gr-assets.com/books/1438037020l/2866718.jpg
+566	DL,DI,BI,BG,EG	Mary Poppins	https://images.gr-assets.com/books/1327947805l/152380.jpg
+567	CF,AF,AD,DI,GI	The Age of Innocence	https://images.gr-assets.com/books/1388248423l/53835.jpg
+568	HL,IL,IJ,GJ,BG	Cry Wolf	https://images.gr-assets.com/books/1310494063l/2355575.jpg
+569	EI,EH,GH,BG,BD	Guilty Pleasures	https://images.gr-assets.com/books/1388207930l/30281.jpg
+570	CJ,AJ,AG,GI,DI	War and Peace	https://images.gr-assets.com/books/1413215930l/656.jpg
+571	AH,AE,EJ,GJ,GI	Shadow Kiss	https://images.gr-assets.com/books/1361099049l/2802316.jpg
+572	AD,AI,BI,BG,GJ	Wuthering Heights	https://images.gr-assets.com/books/1388212715l/6185.jpg
+573	BG,FG,AF,AH,DH	Gone Girl	https://images.gr-assets.com/books/1397056917l/19288043.jpg
+574	HL,DH,BD,BJ,AJ	School's Out—Forever	https://images.gr-assets.com/books/1346079917l/13139.jpg
+575	AD,BD,BF,FG,GH	City of Bones	https://images.gr-assets.com/books/1432730315l/256683.jpg
+576	DF,BD,BI,AI,AJ	Poison Study	https://images.gr-assets.com/books/1388519019l/60510.jpg
+577	CG,CI,BI,BD,DH	The Iron King	https://images.gr-assets.com/books/1327877670l/6644117.jpg
+578	FI,HI,AH,AE,BE	Trainspotting	https://images.gr-assets.com/books/1353033083l/135836.jpg
+579	CD,AD,AJ,IJ,HI	Robinson Crusoe	https://images.gr-assets.com/books/1403180114l/2932.jpg
+580	GH,AH,AD,DI,CI	All Together Dead	https://images.gr-assets.com/books/1417964062l/140075.jpg
+581	HJ,GH,AG,AE,EI	The Hero of Ages	https://images.gr-assets.com/books/1480717763l/2767793.jpg
+582	AG,AD,BD,BE,EH	Eragon	https://images.gr-assets.com/books/1366212852l/113436.jpg
+583	DH,AH,AJ,CJ,CI	The Magus	https://images.gr-assets.com/books/1441323311l/16286.jpg
+584	AG,FG,BF,BI,DI	Siddhartha	https://images.gr-assets.com/books/1428715580l/52036.jpg
+585	AE,AG,GJ,HJ,HI	A Wrinkle in Time	https://images.gr-assets.com/books/1329061522l/18131.jpg
+586	HK,DH,DG,GI,IL	Walks Away Woman	https://images.gr-assets.com/books/1386953097l/19405702.jpg
+587	AG,AE,BE,BD,DI	Don Quixote	https://images.gr-assets.com/books/1364958765l/3836.jpg
+588	FG,BF,BD,DE,AE	Opal	https://images.gr-assets.com/books/1348200300l/13362536.jpg
+589	AG,AE,CE,CF,BF	Fahrenheit 451	https://images.gr-assets.com/books/1469704347l/17470674.jpg
+590	AJ,IJ,HI,DH,DF	Madame Bovary	https://images.gr-assets.com/books/1335676143l/2175.jpg
+591	CH,CF,BF,BG,GJ	The Republic	https://images.gr-assets.com/books/1386925655l/30289.jpg
+592	GL,GI,HI,DH,DJ	Silas Marner	https://images.gr-assets.com/books/1347323528l/54539.jpg
+593	BG,GI,EI,AE,AJ	Dead Until Dark	https://images.gr-assets.com/books/1468560853l/301082.jpg
+594	AJ,AF,BF,BE,EH	Bridge to Terabithia	https://images.gr-assets.com/books/1327880087l/2839.jpg
+595	BF,BE,EH,CH,CJ	Sophie's World	https://images.gr-assets.com/books/1343459906l/10959.jpg
+596	AJ,AG,FG,DF,DI	A Farewell to Arms	https://images.gr-assets.com/books/1313714836l/10799.jpg
+597	EH,AH,AI,GI,FG	The Awakening	https://images.gr-assets.com/books/1478986806l/5391115.jpg
+598	HK,HI,GI,FG,DF	A Passage to India	https://images.gr-assets.com/books/1421883612l/45195.jpg
+599	CK,CI,DI,AD,AF	Pet Sematary	https://images.gr-assets.com/books/1308894674l/10583.jpg
+600	CG,CH,EH,BE,BD	Hamlet	https://images.gr-assets.com/books/1351051208l/1420.jpg
+601	AG,GI,IJ,HJ,DH	Middlesex	https://images.gr-assets.com/books/1437029776l/2187.jpg
+602	BF,BD,DI,AI,AG	Leaves of Grass	https://images.gr-assets.com/books/1418012204l/27494.jpg
+603	DI,AI,AH,CH,CF	Linger	https://images.gr-assets.com/books/1292482391l/6654313.jpg
+604	DI,EI,EH,GH,GJ	The Aeneid	https://images.gr-assets.com/books/1386923968l/12914.jpg
+605	AD,AI,BI,BG,GJ	The Da Vinci Code	https://images.gr-assets.com/books/1303252999l/968.jpg
+606	BI,AI,AF,FG,GL	The Graveyard Book	https://images.gr-assets.com/books/1531295292l/2213661.jpg
+607	DL,DI,BI,BH,AH	Finale	https://images.gr-assets.com/books/1362408156l/12751687.jpg
+608	CJ,CI,DI,DH,HK	The Hours	https://images.gr-assets.com/books/1479663379l/11899.jpg
+609	GJ,GI,DI,BD,BF	Every Day	https://images.gr-assets.com/books/1356993940l/13262783.jpg
+610	CD,DI,GI,FG,AF	Faust: First Part	https://images.gr-assets.com/books/1435405022l/14706.jpg
+611	AE,AH,DH,DF,FG	Green Eggs and Ham	https://images.gr-assets.com/books/1468680100l/23772.jpg
+612	CF,CD,DG,BG,BI	Shantaram	https://images.gr-assets.com/books/1333482282l/33600.jpg
+613	CH,AH,AE,BE,BF	Snow Crash	https://images.gr-assets.com/books/1477624625l/830.jpg
+614	BI,BJ,AJ,AD,DG	Dark Lover	https://images.gr-assets.com/books/1429676285l/42899.jpg
+615	CF,CG,BG,BH,AH	The Lost Symbol	https://images.gr-assets.com/books/1534070883l/6411961.jpg
+616	AJ,BJ,BH,DH,DL	The Maze Runner	https://images.gr-assets.com/books/1375596592l/6186357.jpg
+617	GI,FG,DF,AD,AE	Bitten	https://images.gr-assets.com/books/1306101770l/11918.jpg
+618	AH,AJ,IJ,IL,KL	It	https://images.gr-assets.com/books/1334416842l/830502.jpg
+619	AG,AH,CH,CJ,BJ	The Name of the Wind	https://images.gr-assets.com/books/1515589515l/186074.jpg
+620	DF,BD,BE,EH,CH	Hyperion	https://images.gr-assets.com/books/1405546838l/77566.jpg
+621	HJ,GJ,FG,BF,BD	The Runaway Jury	https://images.gr-assets.com/books/1388444668l/24192.jpg
+622	IJ,HJ,GH,DG,DF	The Tempest	https://images.gr-assets.com/books/1327793692l/12985.jpg
+623	AJ,CJ,CH,BH,BF	The Velveteen Rabbit	https://images.gr-assets.com/books/1347748913l/144974.jpg
+624	GJ,FG,BF,BI,DI	Red Rising	https://images.gr-assets.com/books/1461354651l/15839976.jpg
+625	AG,CG,CI,DI,DF	Clockwork Angel	https://images.gr-assets.com/books/1454962884l/7171637.jpg
+626	HL,DH,DF,AF,AG	Valley of the Dolls	https://images.gr-assets.com/books/1429239923l/581811.jpg
+627	FG,BG,BD,DE,AE	Forrest Gump	https://images.gr-assets.com/books/1385313197l/186190.jpg
+628	DF,FG,GJ,EJ,AE	The Art of War	https://images.gr-assets.com/books/1453417993l/10534.jpg
+629	BH,BD,AD,AG,FG	Black Beauty	https://images.gr-assets.com/books/1420911526l/3685.jpg
+630	HK,AH,AD,DI,GI	Light in August	https://images.gr-assets.com/books/1355360091l/10979.jpg
+631	DL,AD,AE,CE,CG	Night	https://images.gr-assets.com/books/1473495285l/1617.jpg
+632	CE,AE,AG,FG,BF	Flowers in the Attic	https://images.gr-assets.com/books/1327880853l/43448.jpg
+633	HL,HJ,AJ,AI,BI	Blue Moon	https://images.gr-assets.com/books/1362336365l/6134826.jpg
+634	AG,BG,BI,CI,CH	Winnie-the-Pooh	https://images.gr-assets.com/books/1298440130l/99107.jpg
+635	AI,AJ,CJ,CD,DG	Eat, Pray, Love	https://images.gr-assets.com/books/1503066414l/19501.jpg
+636	GI,DG,AD,AF,CF	Sonnets	https://images.gr-assets.com/books/1431229752l/42038.jpg
+637	AD,DI,BI,BF,CF	The Alchemist	https://images.gr-assets.com/books/1483412266l/865.jpg
+638	CD,CH,AH,AJ,GJ	The Way of Kings	https://images.gr-assets.com/books/1388184640l/7235533.jpg
+639	CK,CI,BI,BD,AD	Swann's Way	https://images.gr-assets.com/books/1452956236l/12749.jpg
+640	DG,CD,CJ,AJ,AF	Prince Caspian	https://images.gr-assets.com/books/1308814880l/121749.jpg
+641	BI,BG,DG,DH,HK	The Mark of Athena	https://images.gr-assets.com/books/1464201354l/12127750.jpg
+642	DF,CD,CE,AE,AH	The Silver Chair	https://images.gr-assets.com/books/1336139237l/65641.jpg
+643	BE,BD,DI,HI,AH	Othello	https://images.gr-assets.com/books/1459795105l/12996.jpg
+644	FI,IK,KL,HL,HJ	The Wedding	https://images.gr-assets.com/books/1385738787l/3466.jpg
+645	CF,BF,BH,DH,DG	The Martian	https://images.gr-assets.com/books/1413706054l/18007564.jpg
+646	DF,AF,AH,HI,IJ	Shadowfever	https://images.gr-assets.com/books/1439940228l/7304203.jpg
+647	GH,HI,IJ,AJ,AF	Where the Heart Is	https://images.gr-assets.com/books/1327959469l/5168.jpg
+648	DE,AD,AG,GJ,HJ	World Without End	https://images.gr-assets.com/books/1509545511l/5064.jpg
+649	CE,CD,DF,FG,AG	The Virgin Suicides	https://images.gr-assets.com/books/1319032910l/10956.jpg
