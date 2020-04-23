@@ -13,6 +13,13 @@ class _StatsViewState extends State<StatsView> {
   List<Widget> _gridItems;
   SqliteRepo _repo;
 
+  List<String> _gradeBLabels = [
+    'A',
+    'B',
+    'C',
+    'D',
+  ];
+
   _StatsViewState() {
     _repo = SqliteRepo();
   }
@@ -39,14 +46,14 @@ class _StatsViewState extends State<StatsView> {
 
   Map<String, Stat> calculateStats(List<Problem> problems) {
     Map<String, Stat> stats = Map();
-    // initialize the 4x4
-    for (int i = 1; i <= 4; i++) {
-      for (int j = 1; j <= 4; j++) {
-        stats['$i-$j'] = Stat(0, 0);
+    // initialize the 3x4
+    for (int i = 3; i >= 1; i--) {
+      for (int j = 0; j <= 3; j++) {
+        stats['$i${_gradeBLabels[j]}'] = Stat(0, 0);
       }
     }
     problems.forEach((p) {
-      String key = '${p.gradeA}-${p.gradeB}';
+      String key = '${p.gradeA}${_gradeBLabels[p.gradeB-1]}';
       stats[key].total += 1;
       if (p.sent) stats[key].sent += 1;
     });

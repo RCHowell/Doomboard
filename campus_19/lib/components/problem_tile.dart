@@ -9,6 +9,13 @@ class ProblemTile extends StatelessWidget {
   final Function onLongPress;
   final Function onTap;
 
+  final List<String> _gradeBLabels = [
+    'A',
+    'B',
+    'C',
+    'D',
+  ];
+
   ProblemTile({this.problem, this.onTap, this.onLongPress});
 
   @override
@@ -54,6 +61,13 @@ class ProblemTile extends StatelessWidget {
       ));
     }
 
+    List<Color> gradeColors = [
+      Colors.tealAccent[100],
+      Colors.yellowAccent[100],
+      Colors.redAccent[100],
+      Colors.lightBlueAccent[100],
+    ];
+
     return ListTile(
       onLongPress: onLongPress,
       onTap: onTap,
@@ -74,8 +88,8 @@ class ProblemTile extends StatelessWidget {
       ),
       trailing: Chip(
         avatar: chipAvatar,
-        backgroundColor: Colors.grey[100],
-        label: Text('${problem.gradeA}-${problem.gradeB}'),
+        backgroundColor: gradeColors[problem.gradeA-1],
+        label: Text('${problem.gradeA}${_gradeBLabels[problem.gradeB-1]}'),
       ),
     );
   }

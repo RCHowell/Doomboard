@@ -21,6 +21,13 @@ class _FilterDialogState extends State<FilterDialog> {
     'STARS',
   ];
 
+  List<String> _gradeBLabels = [
+    'A',
+    'B',
+    'C',
+    'D',
+  ];
+
   _FilterDialogState(this.filter);
 
   @override
@@ -34,12 +41,16 @@ class _FilterDialogState extends State<FilterDialog> {
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Text('A'),
+              Text('#'),
               RangeSlider(
                 values: RangeValues(
-                    filter.minGradeA.toDouble(), filter.maxGradeA.toDouble()),
+                  filter.minGradeA.toDouble(),
+                  filter.maxGradeA.toDouble(),
+                ),
                 labels: RangeLabels(
-                    filter.minGradeA.toString(), filter.maxGradeA.toString()),
+                  filter.minGradeA.toString(),
+                  filter.maxGradeA.toString(),
+                ),
                 min: 1.0,
                 max: 4.0,
                 divisions: 3,
@@ -55,12 +66,16 @@ class _FilterDialogState extends State<FilterDialog> {
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Text('B'),
+              Text('X'),
               RangeSlider(
                 values: RangeValues(
-                    filter.minGradeB.toDouble(), filter.maxGradeB.toDouble()),
+                  filter.minGradeB.toDouble(),
+                  filter.maxGradeB.toDouble(),
+                ),
                 labels: RangeLabels(
-                    filter.minGradeB.toString(), filter.maxGradeB.toString()),
+                  _gradeBLabels[filter.minGradeB - 1],
+                  _gradeBLabels[filter.maxGradeB - 1],
+                ),
                 min: 1.0,
                 max: 4.0,
                 divisions: 3,

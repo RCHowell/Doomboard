@@ -125,7 +125,7 @@ class _ProblemsViewState extends State<ProblemsView>
               elevation: 4.0,
               child: Container(
                 height: 20.0,
-                color: Colors.blueGrey[400],
+                color: Colors.white,
               ),
             ),
             Divider(
@@ -197,38 +197,6 @@ class Header extends StatelessWidget {
             icon: FaIcon(FontAwesomeIcons.slidersH, size: 18.0),
             onPressed: onTapFilter,
           ),
-//          trailing: PopupMenuButton<SortChoice>(
-//            icon: FaIcon(FontAwesomeIcons.slidersH, size: 18.0),
-//            initialValue: SortChoice.Alpha,
-//            itemBuilder: (BuildContext _ctx) => <PopupMenuEntry<SortChoice>>[
-//              PopupMenuItem(
-//                value: SortChoice.Alpha,
-//                child: ListTile(
-//                  leading: Icon(Icons.sort_by_alpha),
-//                  title: Text('Alpha'),
-//                ),
-//              ),
-//              PopupMenuItem(
-//                value: SortChoice.GradeA,
-//                child: ListTile(
-//                    leading: Icon(Icons.insert_chart), title: Text('Grade')),
-//              ),
-//              PopupMenuItem(
-//                value: SortChoice.GradeB,
-//                child: ListTile(
-//                  leading: Icon(Icons.insert_chart),
-//                  title: Text('Grade 2'),
-//                ),
-//              ),
-//              PopupMenuItem(
-//                value: SortChoice.Quality,
-//                child: ListTile(
-//                  leading: Icon(Icons.star),
-//                  title: Text('Quality'),
-//                ),
-//              ),
-//            ],
-//          ),
         ),
       ));
 }
