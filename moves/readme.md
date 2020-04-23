@@ -95,4 +95,22 @@ gawk -v FPAT='[^,]*|("[^"]*")+' '{
 }' books.csv > books-short.csv
 ```
 
+### Grade Distribution
+
+#### Improved
+```
+cat problems.json | jq -j '.[] | .grade_a," ", .grade_b, "\n"' | sort | uniq -c
+  77 1 1
+  92 1 2
+  51 1 3
+  50 1 4
+  67 2 1
+  53 2 2
+  88 2 3
+  94 2 4
+  10 3 1
+   2 3 2
+  46 3 3
+  20 3 4
+```
 
