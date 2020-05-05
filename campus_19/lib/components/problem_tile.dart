@@ -22,21 +22,17 @@ class ProblemTile extends StatelessWidget {
   Widget build(BuildContext context) {
     Widget chipAvatar;
     if (problem.quality == Quality.BOMB) {
-      chipAvatar = CircleAvatar(
-          backgroundColor: Colors.blueGrey[50],
-          child: FaIcon(
-            FontAwesomeIcons.bomb,
-            size: 14.0,
-            color: Colors.black,
-          ));
+      chipAvatar = FaIcon(
+        FontAwesomeIcons.bomb,
+        size: 14.0,
+        color: Colors.black,
+      );
     } else if (problem.quality == Quality.STAR) {
-      chipAvatar = CircleAvatar(
-          backgroundColor: Colors.yellow[100],
-          child: FaIcon(
-            FontAwesomeIcons.solidStar,
-            size: 14.0,
-            color: Colors.yellow[600],
-          ));
+      chipAvatar = FaIcon(
+        FontAwesomeIcons.solidStar,
+        size: 14.0,
+        color: Colors.yellow[600],
+      );
     }
 
     List<TextSpan> _titleText = List();
@@ -56,14 +52,17 @@ class ProblemTile extends StatelessWidget {
     if (problem.spray.isNotEmpty) {
       _subtitle.add(Container(
         padding: EdgeInsets.symmetric(horizontal: 8.0),
-        child: FaIcon(FontAwesomeIcons.comment,
-            size: 12.0, color: Colors.blueGrey[200]),
+        child: FaIcon(
+          FontAwesomeIcons.comment,
+          size: 12.0,
+          color: Colors.blueGrey[200],
+        ),
       ));
     }
 
     List<Color> gradeColors = [
-      Colors.tealAccent[100],
-      Colors.yellowAccent[100],
+      Colors.tealAccent[200],
+      Colors.amberAccent[100],
       Colors.redAccent[100],
       Colors.lightBlueAccent[100],
     ];
@@ -76,6 +75,7 @@ class ProblemTile extends StatelessWidget {
           style: TextStyle(
             color: Colors.black,
             fontSize: 16.0,
+            fontWeight: FontWeight.bold,
           ),
           children: _titleText,
         ),
@@ -88,8 +88,14 @@ class ProblemTile extends StatelessWidget {
       ),
       trailing: Chip(
         avatar: chipAvatar,
-        backgroundColor: gradeColors[problem.gradeA-1],
-        label: Text('${problem.gradeA}${_gradeBLabels[problem.gradeB-1]}'),
+        backgroundColor: gradeColors[problem.gradeA - 1],
+        label: Text(
+          '${problem.gradeA}${_gradeBLabels[problem.gradeB - 1]}',
+//          style: TextStyle(
+//            fontWeight: FontWeight.bold,
+//          ),
+        ),
+        elevation: 1.0,
       ),
     );
   }

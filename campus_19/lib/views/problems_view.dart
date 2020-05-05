@@ -125,7 +125,7 @@ class _ProblemsViewState extends State<ProblemsView>
               elevation: 4.0,
               child: Container(
                 height: 20.0,
-                color: Colors.white,
+                color: Colors.black,
               ),
             ),
             Divider(

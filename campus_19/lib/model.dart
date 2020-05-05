@@ -31,7 +31,7 @@ class Problem {
     id = map['id'];
     name = map['name'];
     spray = map['spray'];
-    moves = map['moves'].split(',');
+    moves = shortMoves(map['moves'].split(','));
     gradeA = map['grade_a'];
     gradeB = map['grade_b'];
     sent = map['sent'] == 1;
@@ -73,6 +73,17 @@ class Problem {
     }
 
     return map;
+  }
+
+  static List<String> shortMoves(List<String> moves) {
+    List<String> newMoves = List();
+    newMoves.add(moves.first);
+    for (int i = 0; i < moves.length - 1; i++) {
+      String a = moves[i];
+      String b = moves[i + 1];
+      newMoves.add(b.replaceAll(RegExp('[$a]'), ''));
+    }
+    return newMoves;
   }
 }
 
